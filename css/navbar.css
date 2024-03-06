@@ -61,7 +61,7 @@ a {
 }
 
 .nav .left {
-  display: flex;
+  display: none;
   gap: 15px;
 }
 
